@@ -1,6 +1,6 @@
 """
 -----------------------------------------------------------------------
-Assignment 4 Problem 1: To count the number of times a substring matches within another string.
+Problem 1: To count the number of times a substring matches within another string.
 November 03, 2024 
 Nishigandha Wankhade 
 -----------------------------------------------------------------------
