@@ -1,6 +1,6 @@
 """
------------------------------------------------------------------------
-Assignment 4 Problem 2: To find the start positions of every match between a substring and a string.
+--------------------------------------------------------------
+Problem 2: To find the start positions of every match between a substring and a string.
 November 03, 2024 
 Nishigandha Wankhade 
 -----------------------------------------------------------------------
