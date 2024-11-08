@@ -1,6 +1,6 @@
 """
 -----------------------------------------------------------------------
-Assignment 4 Problem 3: To find EXACT fuzzy matches where all but one character in a substring match.
+Problem 3: To find EXACT fuzzy matches where all but one character in a substring match.
 November 03, 2024 
 Nishigandha Wankhade 
 -----------------------------------------------------------------------
