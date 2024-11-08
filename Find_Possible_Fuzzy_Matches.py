@@ -1,6 +1,6 @@
 """
 -----------------------------------------------------------------------
-Assignment 4 Problem 4: To find fuzzy matches where all but one character in a substring match.
+Problem 4: To find fuzzy matches where all but one character in a substring match.
 November 03, 2024 
 Nishigandha Wankhade 
 -----------------------------------------------------------------------
